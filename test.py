@@ -8,3 +8,4 @@ import random as rand
 df=pd.read_csv("abc.csv",nrows=100)
 print(df.head(20))
 print(df.sentiment.value_count())
+print(exit)
